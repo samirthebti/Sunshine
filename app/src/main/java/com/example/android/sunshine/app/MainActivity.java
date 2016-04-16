@@ -87,7 +87,7 @@ public class MainActivity extends ActionBarActivity {
                     weekforcast);
             ListView listView = (ListView) rootView.findViewById(listview_forcast);
             listView.setAdapter(arrayAdapter);
-            Log.d(String.valueOf(getActivity()),"JOB TERMINED :D");
+            //Log.d(String.valueOf(getActivity()),"JOB TERMINED :D");
             return rootView;
         }
     }
