@@ -1,4 +1,4 @@
-<FrameLayout android:id="@+id/container"
+<FrameLayout android:id="@+id/weather_detail_container"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -6,4 +6,3 @@
     tools:context="com.example.android.sunshine.app.DetailActivity"
     tools:ignore="MergeRootFrame"
     />
-
